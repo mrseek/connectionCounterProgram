@@ -1,1 +1,0 @@
-This is a terminal application that counts number of connections established.
